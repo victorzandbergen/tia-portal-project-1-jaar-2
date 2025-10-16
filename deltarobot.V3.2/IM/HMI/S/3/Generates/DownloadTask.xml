@@ -2,10 +2,10 @@
 <DownloadTask>
   <ProjectInfo
     DeviceVersion="17.0.0.0"
-    CreationTime="2025-10-13 10:49:48 (UTC)"
+    CreationTime="2025-10-16 09:21:20 (UTC)"
     Runtime="SMART"
-    RtProjectName="deltarobot.V3.HMI_1[KTP700 Basic PN]"
-    RtProjectFolderName="deltarobot.V3.HMI_1[KTP700 Basic PN]"
+    RtProjectName="deltarobot.V3.2.HMI_1[KTP700 Basic PN]"
+    RtProjectFolderName="deltarobot.V3.2.HMI_1[KTP700 Basic PN]"
     DeviceType="KTP700_Basic"
     DisplayOrientation="0"
     RTReleaseNo="17.0.0.0"

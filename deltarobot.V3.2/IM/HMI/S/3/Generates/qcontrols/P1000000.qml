@@ -125,8 +125,8 @@ IGuiPage
 	{
 		id: q486539313
 		objId: 486539313
-		x: 65
-		y: 287
+		x: 497
+		y: 267
 		width: 96
 		height: 32
 		qm_BorderCornerRadius: 3
@@ -164,6 +164,167 @@ IGuiPage
 		qm_Border.left: 5
 		qm_FillColor: "#ff636573"
 		qm_TextColor: "#ffffffff"
+		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_Anchors.bottomMargin: 2
+		qm_Anchors.leftMargin: 2
+		qm_Anchors.rightMargin: 2
+		qm_Anchors.topMargin: 2
+		qm_FocusWidth: 2
+		qm_FocusColor: "#ff94b6e7"
+	}
+	IGuiButton
+	{
+		id: q486539315
+		objId: 486539315
+		x: 320
+		y: 87
+		width: 96
+		height: 32
+		qm_BorderCornerRadius: 3
+		qm_BorderWidth: 2
+		qm_RectangleBorder.width:2
+		qm_RectangleBorder.color:"#ff0000ff"
+		qm_FillColor: "#ff000084"
+		qm_TextColor: "#ffffffff"
+		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_Anchors.bottomMargin: 2
+		qm_Anchors.leftMargin: 2
+		qm_Anchors.rightMargin: 2
+		qm_Anchors.topMargin: 2
+		qm_FocusWidth: 2
+		qm_FocusColor: "#ff94b6e7"
+	}
+	IGuiButton
+	{
+		id: q486539316
+		objId: 486539316
+		x: 320
+		y: 146
+		width: 96
+		height: 32
+		qm_BorderCornerRadius: 3
+		qm_BorderWidth: 2
+		qm_RectangleBorder.width:2
+		qm_RectangleBorder.color:"#ff008284"
+		qm_FillColor: "#ff008200"
+		qm_TextColor: "#ffffffff"
+		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_Anchors.bottomMargin: 2
+		qm_Anchors.leftMargin: 2
+		qm_Anchors.rightMargin: 2
+		qm_Anchors.topMargin: 2
+		qm_FocusWidth: 2
+		qm_FocusColor: "#ff94b6e7"
+	}
+	IGuiButton
+	{
+		id: q486539317
+		objId: 486539317
+		x: 320
+		y: 210
+		width: 96
+		height: 32
+		qm_BorderCornerRadius: 3
+		qm_BorderWidth: 2
+		qm_RectangleBorder.width:2
+		qm_RectangleBorder.color:"#ffff9a00"
+		qm_FillColor: "#ffff6500"
+		qm_TextColor: "#ffffffff"
+		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_Anchors.bottomMargin: 2
+		qm_Anchors.leftMargin: 2
+		qm_Anchors.rightMargin: 2
+		qm_Anchors.topMargin: 2
+		qm_FocusWidth: 2
+		qm_FocusColor: "#ff94b6e7"
+	}
+	IGuiButton
+	{
+		id: q486539318
+		objId: 486539318
+		x: 320
+		y: 268
+		width: 96
+		height: 32
+		qm_BorderCornerRadius: 3
+		qm_BorderWidth: 2
+		qm_RectangleBorder.width:2
+		qm_RectangleBorder.color:"#ff9c3063"
+		qm_FillColor: "#ff840084"
+		qm_TextColor: "#ffffffff"
+		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_Anchors.bottomMargin: 2
+		qm_Anchors.leftMargin: 2
+		qm_Anchors.rightMargin: 2
+		qm_Anchors.topMargin: 2
+		qm_FocusWidth: 2
+		qm_FocusColor: "#ff94b6e7"
+	}
+	IGuiButton
+	{
+		id: q486539319
+		objId: 486539319
+		x: 497
+		y: 87
+		width: 96
+		height: 32
+		qm_BorderCornerRadius: 3
+		qm_BorderWidth: 2
+		qm_RectangleBorder.width:2
+		qm_RectangleBorder.color:"#ffffffff"
+		qm_FillColor: "#ffc6c3c6"
+		qm_TextColor: "#ffffffff"
+		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_Anchors.bottomMargin: 2
+		qm_Anchors.leftMargin: 2
+		qm_Anchors.rightMargin: 2
+		qm_Anchors.topMargin: 2
+		qm_FocusWidth: 2
+		qm_FocusColor: "#ff94b6e7"
+	}
+	IGuiButton
+	{
+		id: q486539320
+		objId: 486539320
+		x: 497
+		y: 146
+		width: 96
+		height: 32
+		qm_BorderCornerRadius: 3
+		qm_BorderWidth: 2
+		qm_RectangleBorder.width:2
+		qm_RectangleBorder.color:"#ffff0000"
+		qm_FillColor: "#ff840000"
+		qm_TextColor: "#ffffffff"
+		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_Anchors.bottomMargin: 2
+		qm_Anchors.leftMargin: 2
+		qm_Anchors.rightMargin: 2
+		qm_Anchors.topMargin: 2
+		qm_FocusWidth: 2
+		qm_FocusColor: "#ff94b6e7"
+	}
+	IGuiButton
+	{
+		id: q486539321
+		objId: 486539321
+		x: 497
+		y: 210
+		width: 96
+		height: 32
+		qm_BorderCornerRadius: 3
+		qm_BorderWidth: 2
+		qm_RectangleBorder.width:2
+		qm_RectangleBorder.color:"#ffffff9c"
+		qm_FillColor: "#ffffff00"
+		qm_TextColor: "#ff000000"
 		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
 		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
 		qm_Anchors.bottomMargin: 2
