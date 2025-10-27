@@ -59,8 +59,8 @@ IGuiPage
 	}
 	IGuiIOField
 	{
-		id: q33554448
-		objId: 33554448
+		id: q33554446
+		objId: 33554446
 		x: 58
 		y: 81
 		width: 96
@@ -82,8 +82,8 @@ IGuiPage
 	}
 	IGuiIOField
 	{
-		id: q33554449
-		objId: 33554449
+		id: q33554447
+		objId: 33554447
 		x: 58
 		y: 128
 		width: 96
@@ -105,8 +105,8 @@ IGuiPage
 	}
 	IGuiIOField
 	{
-		id: q33554450
-		objId: 33554450
+		id: q33554448
+		objId: 33554448
 		x: 58
 		y: 174
 		width: 96
