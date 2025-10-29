@@ -299,7 +299,7 @@ IGuiPage
 		id: q486539324
 		objId: 486539324
 		x: 351
-		y: 123
+		y: 126
 		width: 33
 		height: 35
 		qm_BorderCornerRadius: 3
@@ -369,6 +369,48 @@ IGuiPage
 		x: 585
 		y: 71
 		width: 167
+		height: 23
+		qm_Transparent : true 
+		qm_TextColor: "#ff31344a"
+		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_Anchors.bottomMargin: 2
+		qm_Anchors.leftMargin: 3
+		qm_Anchors.rightMargin: 2
+		qm_Anchors.topMargin: 2
+	}
+	IGuiButton
+	{
+		id: q486539326
+		objId: 486539326
+		x: 404
+		y: 126
+		width: 33
+		height: 35
+		qm_BorderCornerRadius: 3
+		qm_BorderWidth: 2
+		qm_ImageSource: "image://QSmartImageProvider/47#2#4#128#0#0"
+		qm_Border.top: 15
+		qm_Border.bottom: 15
+		qm_Border.right: 5
+		qm_Border.left: 5
+		qm_FillColor: "#ff636573"
+		qm_TextColor: "#ffffffff"
+		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_Anchors.bottomMargin: 2
+		qm_Anchors.leftMargin: 2
+		qm_Anchors.rightMargin: 2
+		qm_Anchors.topMargin: 2
+		qm_FocusWidth: 2
+		qm_FocusColor: "#ff94b6e7"
+	}
+	IGuiTextField
+	{
+		id: q268435476
+		objId: 268435476
+		x: 445
+		y: 129
+		width: 85
 		height: 23
 		qm_Transparent : true 
 		qm_TextColor: "#ff31344a"
