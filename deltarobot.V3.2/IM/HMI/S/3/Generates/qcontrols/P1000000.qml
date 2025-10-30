@@ -28,16 +28,6 @@ IGuiPage
 		height: 51
 		pictogram_imageid: 50
 	}
-	IGuiPictogram
-	{
-		id: q285212674
-		objId: 285212674
-		x: 314
-		y: 429
-		width: 72
-		height: 51
-		pictogram_imageid: 52
-	}
 	IGuiButton
 	{
 		id: q486539310
