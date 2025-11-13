@@ -539,6 +539,58 @@ IGuiPage
 	}
 	IGuiButton
 	{
+		id: q486539330
+		objId: 486539330
+		x: 337
+		y: 110
+		width: 380
+		height: 173
+		qm_BorderCornerRadius: 3
+		qm_BorderWidth: 2
+		qm_ImageSource: "image://QSmartImageProvider/63#2#4#128#0#0"
+		qm_Border.top: 15
+		qm_Border.bottom: 15
+		qm_Border.right: 5
+		qm_Border.left: 5
+		qm_FillColor: "#ffbdbebd"
+		qm_TextColor: "#ff000000"
+		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_Anchors.bottomMargin: 2
+		qm_Anchors.leftMargin: 2
+		qm_Anchors.rightMargin: 2
+		qm_Anchors.topMargin: 2
+		qm_FocusWidth: 2
+		qm_FocusColor: "#ff94b6e7"
+	}
+	IGuiButton
+	{
+		id: q486539331
+		objId: 486539331
+		x: 459
+		y: 281
+		width: 256
+		height: 66
+		qm_BorderCornerRadius: 3
+		qm_BorderWidth: 2
+		qm_ImageSource: "image://QSmartImageProvider/63#2#4#128#0#0"
+		qm_Border.top: 15
+		qm_Border.bottom: 15
+		qm_Border.right: 5
+		qm_Border.left: 5
+		qm_FillColor: "#ffbdbebd"
+		qm_TextColor: "#ffffffff"
+		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_Anchors.bottomMargin: 2
+		qm_Anchors.leftMargin: 2
+		qm_Anchors.rightMargin: 2
+		qm_Anchors.topMargin: 2
+		qm_FocusWidth: 2
+		qm_FocusColor: "#ff94b6e7"
+	}
+	IGuiButton
+	{
 		id: q486539327
 		objId: 486539327
 		x: 320
